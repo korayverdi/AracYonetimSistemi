@@ -1,0 +1,17 @@
+Otomobil1-kartal-beyaz-lpg-2000-200-4-1993-4
+Otomobil2-bmx-turuncu-lpg-65000-250-2-2016-4
+Otomobil3-honda-kirmizi-lpg-110000-200-4-2016-4
+Otomobil4-kia-siyah-benzin-50000-160-4-2014-4
+Otomobil5-tata-beyaz-lpg-20000-110-4-2011-4
+Otomobil6-lada-gri-lpg-15000-120-4-1993-4
+Bisiklet1-bmx-kirmizi-200-20-1-2005-3
+Bisiklet2-bma-sari-200-20-1-2000-2
+Bisiklet3-trambolin-turkuaz-5-20-1-1900-1
+Gemi1-1-1-1-1-1-1-1
+Gemi2-1-2-3-4-5-6-7
+Gemi3-1-1-1-1-0-1-1
+Ucak1-thy-mavi-jet-1-250-120-2017-2
+Ucak2-Boing-Beyaz-Jet-2451250-800-100-2000-3
+UcanGemi1-deno-denomsu-denojet-2-1-1-1995-2
+UcanGemi2-1-2-3-4-5-6-1-2
+UcanGemi3-yeni-beyaz-jet-500000-200-100-2023-8
